@@ -4,10 +4,11 @@
 @import "quotes.css";
 @import "banner.css";
 
-
 .container {
     display: flex;
     flex-direction: column;
+    font-family: 'Bitter', serif;
+    background-color: cornsilk;
 }
 
 .underTheBanner {
