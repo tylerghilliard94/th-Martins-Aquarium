@@ -5,6 +5,8 @@
 .banner__logo {
     padding-left: 2vw;
     padding-top: 1vw;
+    max-width: 6%;
+    margin-left: 45%
 }
 
 .banner__title {

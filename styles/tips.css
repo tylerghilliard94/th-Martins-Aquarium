@@ -1,10 +1,14 @@
 .tipList {
     background-color: rgb(145, 219, 145);
-    height: 61.72%;
+    height: 61%;
     padding: 1vw;
     display: flex;
     flex-direction: column;
     align-content: space-between;
+    border-bottom: solid;
+    border-color: cornsilk;
+    border-width: 1vw;
+    margin-bottom: 1.4vw;
 }
 
 .tip {
