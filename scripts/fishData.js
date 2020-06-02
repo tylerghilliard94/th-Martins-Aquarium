@@ -4,7 +4,7 @@ const martinFishCollection = [
         species: "Parrot Fish",
         length: "8 cm",
         location: "Sea of Google",
-        food: "popcorn",
+        food: "Popcorn",
         picture: "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg"
     },
 
