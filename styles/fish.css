@@ -4,6 +4,11 @@
     align-content: space-around;
     flex-wrap: wrap;
     justify-content: center;
+    border: solid;
+    border-color: cornsilk;
+    border-width: 1vw;
+    filter: drop-shadow(10px 3px 2px rgba(48, 47, 47, 0.76));
+    margin-bottom: 1.2vw;
 }
 
 .fish {
@@ -19,4 +24,12 @@
     max-width: 15rem;
     max-height: 15rem;
     margin-top: 2vw;
+}
+
+#fishTitle {
+    background-color: rgb(145, 219, 145);
+    margin: 0vw;
+    padding-top: 1vw;
+    text-align: center;
+    font-size: 2vw;
 }

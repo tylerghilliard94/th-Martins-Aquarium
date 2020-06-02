@@ -1,11 +1,10 @@
 .banner {
-    background-color: darkgoldenrod;
+    background-color: cornsilk;
 }
 
 .banner__logo {
     padding-left: 2vw;
     padding-top: 1vw;
-    height:10%;
 }
 
 .banner__title {

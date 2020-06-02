@@ -1,12 +1,12 @@
 .locationList {
-    background-color: cornsilk;
+    background-color: rgb(83, 83, 82);
     display: flex;
     flex-direction: row;
-    align-content: space-around;
+    align-content: space-between;
     justify-content: center;
     flex-wrap: wrap;
+    margin-left: 18vw;
 }
-
 .location {
     background-color: mediumseagreen;
     width: 25%;
@@ -21,4 +21,12 @@
     max-width: 15rem;
     max-height: 15rem;
     padding-bottom: 1vw;
+}
+
+#locationTitle {
+    background-color: rgb(83, 83, 82);
+    margin: 0vw 0vw 0vw 13vw;
+    padding-top: 1vw;
+    padding-left: 5vw;
+    text-align: center;
 }
