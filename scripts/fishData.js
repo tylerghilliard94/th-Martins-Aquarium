@@ -68,7 +68,7 @@ const martinFishCollection = [
         length: "17 cm",
         location: "Sea of the Rock",
         food: "Whatever the Rock is cookin",
-        picture: "https://www.diving-indo.com/wp-content/uploads/2018/05/IMG_2691.jpg"
+        picture: "https://haydensanimalfacts.files.wordpress.com/2015/05/reef-stonefish.jpg"
     },
 
     {
