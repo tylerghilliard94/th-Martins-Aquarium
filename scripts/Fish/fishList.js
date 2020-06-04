@@ -1,5 +1,5 @@
 
-const showHolyFish = () => {
+const showHolyFish = (fishArray) => {
     const fishObjectsArray = mostHolyFish()
 
     for (const fishObject of fishObjectsArray) {

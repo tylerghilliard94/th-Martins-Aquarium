@@ -1,0 +1,135 @@
+{
+    "fish": [ 
+        {
+        "name": "Angus",
+        "species": "Parrot Fish",
+        "length": 21,
+        "location": "Sea of Google",
+        "food": "Popcorn",
+        "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg"
+        },
+
+        {
+        "name": "Beth",
+        "species":"Puffer Fish",
+        "length": 22,
+        "location": "Sea of Cheddar",
+        "food": "Cheetos",
+        "picture": "https://rangerrick.org/wp-content/uploads/2018/04/RR-Pufferfish-Sept-2016.jpg"
+        },
+
+        {
+        "name": "Beauregard",
+        "species": "Lion Fish",
+        "length": 18,
+        "location": "Sea of Bing",
+        "food": "Pain",
+        "picture": "https://blueocean.net/wp-content/uploads/2017/03/florida-keys-treashres.jpg"
+        },
+
+        {
+        "name": "Rebecca",
+        "species": "Stargazer",
+        "length": 13,
+        "location": "Sea of Cthulu",
+        "food": "Those Tasty Stars",
+        "picture": "https://www.saltstrong.com/wp-content/uploads/shutterstock_129741632.jpg"
+        },
+
+        {
+        "name": "Harry",
+        "species": "Hagfish",
+        "length": 20,
+        "location": "Sea of Hogwarts",
+        "food": "Boggarts",
+        "picture": "http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/5208x2928+0+190/resize/800x450!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/92d7f0f0babf7f031835fd5c1e55e8a9/205478081/pacific-hagfish-picture-id128615783"
+        },
+
+        {
+        "name": "Gertrude",
+        "species": "Barreleye Fish",
+        "length": 33,
+        "location": "Sea of Yahoo",
+        "food": "Jellies",
+        "picture": "https://i.redditmedia.com/WsRLR2BteGJRPKmYynb93j4z5qCbjtMsD4qvkqG_QP4.jpg?w=1024&s=164a993dbc48debba5cb14ca0f5e22af"
+        },
+
+        {
+        "name": "Betsy",
+        "species": "Flowerhorn",
+        "length": 7,
+        "location": "Sea of Wolfram",
+        "food": "Flowers",
+        "picture": "http://2.bp.blogspot.com/_OG7SzMSq2N0/SxBJkb-CzDI/AAAAAAAAAa0/pvIk-ByEOzg/s1600/fh.jpg"
+        },
+
+        {
+        "name": "Reginald",
+        "species": "Stonefish",
+        "length": 24,
+        "location": "Sea of the Rock",
+        "food": "Whatever the Rock is cookin",
+        "picture": "https://haydensanimalfacts.files.wordpress.com/2015/05/reef-stonefish.jpg"
+        },
+
+        {
+        "name": "Ross",
+        "species": "Goldfish",
+        "length": 6,
+        "location": "Sea of Friends",
+        "food": "Coffee",
+        "picture": "https://www.thisiscolossal.com/wp-content/uploads/2019/06/tsubaki-12.jpg"
+        }
+
+    ],
+    "locations": [
+        {
+        "name": "Caribbean Sea",
+        "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
+        "details": "Artisan ugh godard kombucha lyft freegan XOXO raclette enamel pin church-key la croix franzen skateboard."
+        },
+        {
+        "name": "Great Barrier Reef",
+        "picture": "https://countercurrents.org/wp-content/uploads/2018/08/great-barrier-reef.jpg",
+        "details": "Artisan ugh godard kombucha lyft freegan XOXO raclette enamel pin church-key la croix franzen skateboard."
+        },
+        {
+        "name": "Dead Sea",
+        "picture": "http://awesomeocean.com/wp-content/uploads/2016/02/Dead-Sea-3-z8sn8q.jpg",
+        "details": "Artisan ugh godard kombucha lyft freegan XOXO raclette enamel pin church-key la croix franzen skateboard."
+        },
+        {
+        "name": "White Sea",
+        "picture": "http://www.ediacaran.org/uploads/2/1/5/5/21556876/p7186444_orig.jpg",
+        "details": "Artisan ugh godard kombucha lyft freegan XOXO raclette enamel pin church-key la croix franzen skateboard."
+        }
+    ],
+    "tips": [
+        {
+        "tip": "Poutine viral man braid farm-to-table chambray stumptown."
+        },
+
+        {
+        "tip": "Keep your fish happy with regular massages."
+        },
+
+        {
+        "tip": "Fish don't die if you love them."
+        },
+
+        {
+        "tip": "Freshwater fish go in freshwater tanks. This comes from experience."
+        }
+    ],
+    "quotes": [
+        {
+            "quote": "Forage brooklyn prism shaman readymade hammock selvage hot chicken, mumblecore master cleanse post-ironic palo santo copper mug."
+        },
+        {
+            "quote": "When deciding on a fish please pick one that goes with your personality."
+        },
+        {
+            "quote": "Its a good idea to make sure the water isnt boiling. Fish dont like that."
+        }
+    ]
+}
